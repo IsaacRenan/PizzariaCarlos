@@ -1,0 +1,2807 @@
+
+Execução 1:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 2:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 3:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 4:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 5:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 6:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 7:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 8:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 9:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 10:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 11:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 12:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 13:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 14:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 15:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 16:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 17:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 18:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 19:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 20:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 21:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 22:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 23:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 24:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 25:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 26:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 27:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 28:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 29:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 30:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 31:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 32:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 33:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 34:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 35:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 36:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 37:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 38:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 39:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 40:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 41:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 42:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 43:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 44:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 45:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 46:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 47:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 48:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 49:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 50:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 51:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 52:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 53:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 54:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 55:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 56:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 57:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 58:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 59:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 60:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 61:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 62:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 63:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 64:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 65:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 66:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 67:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 68:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 69:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 70:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 71:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 72:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 73:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 74:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 75:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 76:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 77:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 78:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 79:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 80:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 81:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 82:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 83:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 84:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 85:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 86:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 87:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 88:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 89:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 90:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 91:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 92:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 93:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 94:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 95:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 96:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 97:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 98:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 99:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Execução 100:
+test_atualizar_cliente (__main__.TestPizzaria.test_atualizar_cliente)
+Testa atualização de clientes. ... ok
+test_atualizar_pizza (__main__.TestPizzaria.test_atualizar_pizza)
+Testa atualização de pizzas. ... ok
+test_atualizar_status_pedido (__main__.TestPizzaria.test_atualizar_status_pedido)
+Testa atualização do status de um pedido. ... ok
+test_deletar_cliente (__main__.TestPizzaria.test_deletar_cliente)
+Testa a remoção de clientes. ... ok
+test_deletar_pedido (__main__.TestPizzaria.test_deletar_pedido)
+Testa remoção de pedidos. ... ok
+test_deletar_pizza (__main__.TestPizzaria.test_deletar_pizza)
+Testa remoção de pizzas. ... ok
+test_inserir_cliente (__main__.TestPizzaria.test_inserir_cliente)
+Testa inserção de clientes. ... ok
+test_inserir_pedido (__main__.TestPizzaria.test_inserir_pedido)
+Testa inserção de pedidos. ... ok
+test_inserir_pizza (__main__.TestPizzaria.test_inserir_pizza)
+Testa inserção de pizzas. ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.245s
+
+OK
+Total de testes: 9
+Falhas: 0
+Erros: 0
+
+Resumo:
+Total de execuções: 100
+Total de testes: 900
+Total de falhas: 0
+Total de erros: 0
+Todos os testes foram executados com sucesso.
